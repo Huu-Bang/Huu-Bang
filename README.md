@@ -55,16 +55,4 @@
 > *Bot Discord tự động hóa check-in và hẹn giờ, chạy hoàn toàn trên nền tảng Serverless Google Apps Script.*
 > - **Tech:** `JavaScript`, `Google Apps Script`, `Discord API`.
 
-<br/>
-
----
-### 📊 [ GITHUB STATS ]
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true" width="48%" />
-</div>
-
-<br/>
-
 </div>
